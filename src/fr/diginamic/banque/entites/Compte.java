@@ -2,14 +2,18 @@ package fr.diginamic.banque.entites;
 
 public class Compte {
 
+    // Attributs d'instance (encapsulation)
     private String numeroCompte;
     private double solde;
 
-        public Compte(String numeroCompte, double solde) {
+    // Constructeur avec numéro de compte et solde
+    public Compte(String numeroCompte, double solde) {
         this.numeroCompte = numeroCompte;
         this.solde = solde;
     }
-        public String getNumeroCompte() {
+
+    // Getters et setters (encapsulation)
+    public String getNumeroCompte() {
         return numeroCompte;
     }
 
@@ -23,5 +27,11 @@ public class Compte {
 
     public void setSolde(double solde) {
         this.solde = solde;
+    }
+
+    // Redéfinition de la méthode toString()
+    @Override
+    public String toString() {
+        return "Compte [Numero de compte=" + numeroCompte + ", Solde=" + solde + "]";
     }
 }

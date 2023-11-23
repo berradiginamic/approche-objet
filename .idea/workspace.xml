@@ -1,11 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca5e035c-53e1-4d6a-804d-d496e022b796" name="Changes" comment="" />
+    <list default="true" id="ca5e035c-53e1-4d6a-804d-d496e022b796" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/approche-objet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites/AdressePostale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites/TestAdressePostale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites/TestPersonne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/Chambre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/Cuisine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/Maison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/MaisonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/SalleDeBain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/Salon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entites2/WC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/CompteTaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/Debit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/TestBanque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/banque/entites/TestOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/chaine/TestStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/dates/TestCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/diginamic/dates/TestDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listes/CreationListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listes/FusionListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listes/TestVilles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listes/Ville.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tri/ComparatorHabitant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tri/ComparatorNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tri/TestComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tri/TestTriVilles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tri/Ville.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utiles/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utiles/StringUtilsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -18,8 +72,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/berra/jdbc-jpa/approche-objet/src/Main.java"
   }
 }]]></component>

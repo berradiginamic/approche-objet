@@ -1,2 +1,17 @@
-package entites2;public class Salon {
+package entites2;
+
+public class Salon extends Piece {
+
+    /** Constructeur
+     * @param etage étage
+     * @param superficie superficie
+     */
+    public Salon(int etage, double superficie) {
+        super(etage, superficie);
+    }
+
+    @Override
+    public String getType() {
+        return TYPE_SALON;
+    }
 }
